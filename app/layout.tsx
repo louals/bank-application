@@ -12,10 +12,10 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "",
-  description: "",
+  title: "Atlas",
+  description: "Atlas is a modern and user-friendly banking application that provides a seamless experience for users to manage their finances.",
   icons: {
-    icon: '/icons/stripe.svg'
+    icon: '/icons/logo.png'
   }
 };
 
